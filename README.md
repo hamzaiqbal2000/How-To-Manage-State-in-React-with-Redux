@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+## How To Manage State in React with Redux
+
+Redux is a popular single store. It can be advantageous when working with components that need a common source of information. However, it is not always the right choice in all projects. Smaller projects or projects with isolated components will be able to use built-in state management and context. But as your applications grow in complexity, you may find that central storage is critical to maintaining data integrity. In such cases, Redux is an excellent tool to create a single unified data store that you can use across your components with minimal effort.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
